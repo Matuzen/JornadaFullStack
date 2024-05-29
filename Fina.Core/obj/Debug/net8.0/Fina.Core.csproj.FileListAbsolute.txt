@@ -1,0 +1,11 @@
+C:\Projetos\Fina\Fina.Core\bin\Debug\net8.0\Fina.Core.deps.json
+C:\Projetos\Fina\Fina.Core\bin\Debug\net8.0\Fina.Core.dll
+C:\Projetos\Fina\Fina.Core\bin\Debug\net8.0\Fina.Core.pdb
+C:\Projetos\Fina\Fina.Core\obj\Debug\net8.0\Fina.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Fina\Fina.Core\obj\Debug\net8.0\Fina.Core.AssemblyInfoInputs.cache
+C:\Projetos\Fina\Fina.Core\obj\Debug\net8.0\Fina.Core.AssemblyInfo.cs
+C:\Projetos\Fina\Fina.Core\obj\Debug\net8.0\Fina.Core.csproj.CoreCompileInputs.cache
+C:\Projetos\Fina\Fina.Core\obj\Debug\net8.0\Fina.Core.dll
+C:\Projetos\Fina\Fina.Core\obj\Debug\net8.0\refint\Fina.Core.dll
+C:\Projetos\Fina\Fina.Core\obj\Debug\net8.0\Fina.Core.pdb
+C:\Projetos\Fina\Fina.Core\obj\Debug\net8.0\ref\Fina.Core.dll
